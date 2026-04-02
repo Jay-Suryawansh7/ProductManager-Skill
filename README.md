@@ -37,6 +37,4 @@ To use this skill with your AI assistant:
 3. **Usage**:
    Trigger the skill by mentioning "product", "feature", "idea", "roadmap", "MVP", or "metrics". The AI will immediately shift into PM-CEO mode.
 
-## 📄 License
 
-[Insert License here, e.g., MIT]
